@@ -13,10 +13,10 @@ document.write('\
 <!-- Header -->\
 <div id="header" style="text-align:center">\
   <a href="https://www.iitbhilai.ac.in/">\
-    <img src="/image/Logo_of_IIT_Bhilai.png" class="logo-left">\
+    <img src="image/Logo_of_IIT_Bhilai.png" class="logo-left">\
   </a>\
   <a>\
-    <img src="/image/ai-cover.png" class="logo-right">\
+    <img src="image/ai-cover.png" class="logo-right">\
   </a>\
   <h1 style="background: rgb(39, 39, 39); font-size: 35px; background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44); -webkit-text-fill-color: transparent; -webkit-background-clip: text;">DS251: Artificial Intelligence</h1>\
   <h3>Indian Institute of Technology (IIT), Bhilai / 2023-24-W</h3>\
